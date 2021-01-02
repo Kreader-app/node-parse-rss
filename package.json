@@ -2,6 +2,7 @@
   "name": "node-parse-rss",
   "description": "RSS Feed Reader in Node.js",
   "author": "https://github.com/nelsonic",
+  "version": "1.0.1"
   "dependencies": {
     "feed-read": "*"
   },
